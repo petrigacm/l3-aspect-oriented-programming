@@ -1,8 +1,5 @@
-# l3-aspects
-<b>Spring and AOP with aspectJ</b> <br/>
-Simple aspects scenarios on almost all method level spring supported targets<br/>
-<b>Use cases </b><br/>
-Cache<br/>
-Security<br/>
-Transaction<br/>
-<b>Introductions</b><br/>
+# L3 Aspect oriented programming
+
+* [Aspect Oriented Programming with Spring](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#aop)
+* [cglib](https://github.com/cglib/cglib)
+* [JDK dynamic proxy](https://docs.oracle.com/javase/8/docs/technotes/guides/reflection/proxy.html)
